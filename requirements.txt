@@ -1,0 +1,4 @@
+ctranslate2>=3.17,<4
+tokenizers==0.14.*
+numpy
+webrtc-noise-gain==1.2.3
